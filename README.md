@@ -2,7 +2,7 @@
 
 ## Commands For Files and Folders
 
-### Using the commands mkdir, ni, move, and copy and useful commands for keeping organization in a repository. I used them to keep three folders, evidence, backup, and security, and to create and copy the evidence.txt file. Organization on larger cases must be made in order to keep a workspace in order.
+### Using the commands mkdir, ni, move, and copy and useful commands for keeping organization in a repository. I used them to keep four folders, evidence, backup, logs, and security, and to create and copy the evidence.txt file. Organization on larger cases must be made in order to keep a workspace in order.
 
 ## Commands For File Contents
 
