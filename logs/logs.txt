@@ -1,0 +1,1194 @@
+
+LogMode   MaximumSizeInBytes RecordCount LogName
+-------   ------------------ ----------- -------
+Circular            15728640       14292 Windows PowerShell
+Circular            20971520       40042 System
+Circular            20971520       32054 Security
+Circular             1052672        1818 OneApp_IGCC
+Circular             1052672        3280 OAlerts
+Circular            20971520           0 Key Management Service
+Circular             1052672           0 Internet Explorer
+Circular            20971520           0 HardwareEvents
+Circular            20971520       23480 Application
+Retain               1052672             WordChannel
+Retain               1052672             WMPSyncEngine
+Retain               1052672             WMPSetup
+Retain               1052672             WINDOWS_wmvdecod_CHANNEL
+Retain               1052672             WINDOWS_WMPHOTO_CHANNEL
+Retain               1052672             WINDOWS_VC1ENC_CHANNEL
+Retain               1052672             WINDOWS_MSMPEG2VDEC_CHANNEL
+Retain               1052672             WINDOWS_MSMPEG2ADEC_CHANNEL
+Retain               1052672             WINDOWS_MP4SDECD_CHANNEL
+Retain               1052672             WINDOWS_MFH264Enc_CHANNEL
+Retain               1052672             WINDOWS_KS_CHANNEL
+Circular             1052672             Windows Networking Vpn Plugin Platform/OperationalVerbose
+Circular             1052672             Windows Networking Vpn Plugin Platform/Operational
+Retain               1052672             UIManager_Channel
+Retain               1052672             Uac/Debug
+Retain               1052672             TimeBroker
+Retain               1052672             TabletPC_InputPanel_Channel/IHM
+Retain               1052672             TabletPC_InputPanel_Channel
+Retain               1052672             SystemEventsBroker
+Circular             1052672           0 SMSApi
+Retain               1052672             SmbWmiAnalytic
+Circular             1052672         450 Setup
+Retain               1052672             RTWorkQueueTheading
+Retain               1052672             RTWorkQueueExtended
+Circular            15728640         142 PowerShellCore/Operational
+Retain            1048985600             PowerShellCore/Debug
+Retain            1048985600             PowerShellCore/Analytic
+Retain               1052672             PlayReadyPerformanceChannel
+Retain               1052672             Physical_Keyboard_Manager_Channel
+Retain               1052672             OSK_SoftKeyboard_Channel
+Circular             1052672           0 OpenSSH/Operational
+Retain               1052672             OpenSSH/Debug
+Circular             1052672           0 OpenSSH/Admin
+Retain               1052672             OfficeDebugChannel
+Retain               1052672             OfficeChannel
+Retain               1052672             NIS-Driver-WFP/Diagnostic
+Circular             1052672             Network Isolation Operational
+Retain               1052672             Navigator
+Retain               1052672             muxencode
+Retain               1052672             Microsoft-WindowsPhone-Net-Cellcore-CellularAPI/Debug
+Retain               1052672             Microsoft-WindowsPhone-Net-Cellcore-CellManager/Debug
+Retain               1052672             Microsoft-WindowsPhone-LocationServiceProvider/Debug
+Circular             1052672           0 Microsoft-WindowsPhone-Connectivity-WiFiConnSvc-Channel
+Retain               1052672             Microsoft-Windows-XAudio2/Performance
+Retain               1052672             Microsoft-Windows-XAudio2/Debug
+Retain               1052672             Microsoft-Windows-XAML/Default
+Retain               1052672             Microsoft-Windows-XAML-Diagnostics/Default
+Circular             1052672           0 Microsoft-Windows-WWAN-SVC-Events/Operational
+Retain               1052672             Microsoft-Windows-WWAN-SVC-Events/Diagnostic
+Retain               1052672             Microsoft-Windows-WWAN-NDISUIO-EVENTS/Diagnostic
+Retain               1052672             Microsoft-Windows-WWAN-MM-Events/Diagnostic
+Retain               1052672             Microsoft-Windows-WWAN-MediaManager/Diagnostic
+Retain               1052672             Microsoft-Windows-WWAN-CFE/Diagnostic
+Retain               1052672             Microsoft-Windows-WUSA/Debug
+Retain               1052672             Microsoft-Windows-WSC-SRV/Diagnostic
+Retain               1052672             Microsoft-Windows-WPD-MTPUS/Analytic
+Retain               1052672             Microsoft-Windows-WPD-MTPIP/Analytic
+Circular             1052672         570 Microsoft-Windows-WPD-MTPClassDriver/Operational
+Retain               1052672             Microsoft-Windows-WPD-MTPClassDriver/Analytic
+Retain               1052672             Microsoft-Windows-WPD-MTPBT/Analytic
+Circular             1052672           0 Microsoft-Windows-WPD-CompositeClassDriver/Operational
+Retain               1052672             Microsoft-Windows-WPD-CompositeClassDriver/Analytic
+Circular             1052672           1 Microsoft-Windows-WPD-ClassInstaller/Operational
+Retain               1052672             Microsoft-Windows-WPD-ClassInstaller/Analytic
+Retain               1052672             Microsoft-Windows-WPD-API/Analytic
+Circular             1052672           0 Microsoft-Windows-Workplace Join/Admin
+Circular             1052672           0 Microsoft-Windows-WorkFolders/WHC
+Circular             1052672           0 Microsoft-Windows-WorkFolders/Operational
+Retain               1052672             Microsoft-Windows-WorkFolders/Debug
+Retain               1052672             Microsoft-Windows-WorkFolders/Analytic
+Retain               1052672             Microsoft-Windows-Wordpad/Diagnostic
+Retain               1052672             Microsoft-Windows-Wordpad/Debug
+Circular             1052672             Microsoft-Windows-Wordpad/Admin
+Retain               1052672             Microsoft-Windows-WMPNSSUI/Diagnostic
+Circular             1052672           0 Microsoft-Windows-WMPNSS-Service/Operational
+Retain               1052672             Microsoft-Windows-WMPNSS-Service/Diagnostic
+Retain               1052672             Microsoft-Windows-WMPNSS-PublicAPI/Diagnostic
+Retain               1052672             Microsoft-Windows-WMPDMCUI/Diagnostic
+Retain               1052672             Microsoft-Windows-WMI-Activity/Trace
+Circular             1052672         983 Microsoft-Windows-WMI-Activity/Operational
+Retain               1052672             Microsoft-Windows-WMI-Activity/Debug
+Circular             1052672             Microsoft-Windows-wmbclass/Trace
+Retain               1052672             Microsoft-Windows-wmbclass/Analytic
+Retain               1052672             Microsoft-Windows-WlanDlg/Analytic
+Retain               1052672             Microsoft-Windows-WLANConnectionFlow/Diagnostic
+Retain               1052672             Microsoft-Windows-WLAN-MediaManager/Diagnostic
+Retain               1052672             Microsoft-Windows-WLAN-Driver/Analytic
+Circular             1052672        1407 Microsoft-Windows-WLAN-AutoConfig/Operational
+Retain               1052672             Microsoft-Windows-WLAN-Autoconfig/Diagnostic
+Circular             1052672           0 Microsoft-Windows-Wired-AutoConfig/Operational
+Retain               1052672             Microsoft-Windows-Wired-AutoConfig/Diagnostic
+Retain               1052672             Microsoft-Windows-WinURLMon/Analytic
+Retain               1052672             Microsoft-Windows-Winsrv/Analytic
+Circular             1052672           0 Microsoft-Windows-Winsock-WS2HELP/Operational
+Circular             1052672             Microsoft-Windows-Winsock-NameResolution/Operational
+Circular             1052672             Microsoft-Windows-Winsock-AFD/Operational
+Circular             1052672        1662 Microsoft-Windows-WinRM/Operational
+Retain               1052672             Microsoft-Windows-WinRM/Debug
+Retain               1052672             Microsoft-Windows-WinRM/Analytic
+Retain               1052672             Microsoft-Windows-WinNat/Trace
+Circular             1052672             Microsoft-Windows-WinNat/Oper
+Retain               1052672             Microsoft-Windows-WinML/Analytic
+Retain               1052672             Microsoft-Windows-WinMDE/MDE
+Circular             1052672        2574 Microsoft-Windows-Winlogon/Operational
+Retain               1052672             Microsoft-Windows-Winlogon/Diagnostic
+Retain               1052672             Microsoft-Windows-Wininit/Diagnostic
+Retain               1052672             Microsoft-Windows-WinINet/WebSocket
+Retain               1052672             Microsoft-Windows-WinINet/UsageLog
+Retain               1052672             Microsoft-Windows-WinINet/Pca
+Circular             1052672        1752 Microsoft-Windows-WinINet/Operational
+Retain               1052672             Microsoft-Windows-WinINet/Analytic
+Circular             1052672           6 Microsoft-Windows-WinINet-Config/ProxyConfigChanged
+Circular             1052672             Microsoft-Windows-WinINet-Capture/Analytic
+Circular             1052672           0 Microsoft-Windows-WinHttp/Operational
+Retain               1052672             Microsoft-Windows-WinHttp/Diagnostic
+Retain               1052672             Microsoft-Windows-WinHttp-Pca
+Circular             1052672             Microsoft-Windows-WinHTTP-NDF/Diagnostic
+Circular             1052672        2088 Microsoft-Windows-WindowsUpdateClient/Operational
+Retain               1052672             Microsoft-Windows-WindowsUpdateClient/Analytic
+Circular             1052672             Microsoft-Windows-WindowsUIImmersive/Operational
+Retain               1052672             Microsoft-Windows-WindowsUIImmersive/Diagnostic
+Retain               1052672             Microsoft-Windows-WindowsSystemAssessmentTool/Tracing
+Circular             1052672        1706 Microsoft-Windows-WindowsSystemAssessmentTool/Operational
+Circular             1052672             Microsoft-Windows-WindowsColorSystem/Operational
+Retain             104857600             Microsoft-Windows-WindowsColorSystem/Debug
+Circular             1052672           0 Microsoft-Windows-WindowsBackup/ActionCenter
+Circular             1052672             Microsoft-Windows-Windows Firewall With Advanced Security/FirewallVerbose
+Circular             1052672          40 Microsoft-Windows-Windows Firewall With Advanced Security/FirewallDiagnostics
+Circular             1052672        1038 Microsoft-Windows-Windows Firewall With Advanced Security/Firewall
+Circular             1052672             Microsoft-Windows-Windows Firewall With Advanced Security/ConnectionSecurityVerbose
+Circular             1052672           5 Microsoft-Windows-Windows Firewall With Advanced Security/ConnectionSecurity
+Circular             1052672           0 Microsoft-Windows-Windows Defender/WHC
+Circular             1052672       15685 Microsoft-Windows-Windows Defender/Operational
+Retain               1052672             Microsoft-Windows-Windeploy/Analytic
+Retain               1052672             Microsoft-Windows-Win32k/UIPI
+Retain               1052672             Microsoft-Windows-Win32k/Tracing
+Retain               1052672             Microsoft-Windows-Win32k/Render
+Retain               1052672             Microsoft-Windows-Win32k/Power
+Circular             1052672           0 Microsoft-Windows-Win32k/Operational
+Retain               1052672             Microsoft-Windows-Win32k/Messages
+Retain               1052672             Microsoft-Windows-Win32k/Contention
+Retain               1052672             Microsoft-Windows-Win32k/Concurrency
+Retain               1052672             Microsoft-Windows-WiFiDisplay/Analytic
+Circular             1052672         308 Microsoft-Windows-WFP/Operational
+Retain               1052672             Microsoft-Windows-WFP/Analytic
+Circular             1052672        1273 Microsoft-Windows-WER-PayloadHealth/Operational
+Circular             1052672             Microsoft-Windows-WEPHOSTSVC/Operational
+Retain               1052672             Microsoft-Windows-Websocket-Protocol-Component/Tracing
+Retain               1052672             Microsoft-Windows-WebServices/Tracing
+Retain               1052672             Microsoft-Windows-WebPlatStorage-Server
+Retain               1052672             Microsoft-Windows-WebIO/Diagnostic
+Circular             1052672             Microsoft-Windows-WebIO-NDF/Diagnostic
+Retain               1052672             Microsoft-Windows-WebcamProvider/Analytic
+Circular             5242880        1676 Microsoft-Windows-WebAuthN/Operational
+Circular             1052672             Microsoft-Windows-WebAuth/Operational
+Circular             1052672           0 Microsoft-Windows-WDAG-PolicyEvaluator-GP/Operational
+Circular             1052672           0 Microsoft-Windows-WDAG-PolicyEvaluator-CSP/Operational
+Retain               1052672             Microsoft-Windows-WCNWiz/Analytic
+Retain               1052672             Microsoft-Windows-WCN-Config-Registrar/Diagnostic
+Circular             1052672        2553 Microsoft-Windows-Wcmsvc/Operational
+Retain               1052672             Microsoft-Windows-Wcmsvc/Diagnostic
+Retain               1052672             Microsoft-Windows-WABSyncProvider/Analytic
+Retain               1052672             Microsoft-Windows-VWiFi/Diagnostic
+Circular             1052672           0 Microsoft-Windows-VPN/Operational
+Circular             1052672           0 Microsoft-Windows-VPN-Client/Operational
+Circular             1052672        2102 Microsoft-Windows-VolumeSnapshot-Driver/Operational
+Retain               1052672             Microsoft-Windows-VolumeSnapshot-Driver/Analytic
+Retain               1052672             Microsoft-Windows-VolumeControl/Performance
+Circular             1052672           0 Microsoft-Windows-Volume/Diagnostic
+Retain               1052672             Microsoft-Windows-VIRTDISK-Analytic
+Circular             1052672         199 Microsoft-Windows-VHDMP-Operational
+Retain               1052672             Microsoft-Windows-VHDMP-Analytic
+Circular             1052672             Microsoft-Windows-VerifyHardwareSecurity/Operational
+Circular             1052672           0 Microsoft-Windows-VerifyHardwareSecurity/Admin
+Circular             1052672           0 Microsoft-Windows-VDRVROOT/Operational
+Retain               1052672             Microsoft-Windows-VAN/Diagnostic
+Retain               1052672             Microsoft-Windows-UxTheme/Diagnostic
+Retain               1052672             Microsoft-Windows-UxInit/Diagnostic
+Circular             1052672         981 Microsoft-Windows-UserSettingsBackup-Orchestrator/Operational
+Circular             1052672           0 Microsoft-Windows-UserSettingsBackup-BackupUnitProcessor/Operational
+Retain               1052672             Microsoft-Windows-UserPnp/SchedulerOperations
+Retain               1052672             Microsoft-Windows-UserPnp/Performance
+Retain               1052672             Microsoft-Windows-UserPnp/DeviceMetadata/Debug
+Circular             1052672         852 Microsoft-Windows-UserPnp/DeviceInstall
+Circular             1052672           1 Microsoft-Windows-UserPnp/ActionCenter
+Retain               1052672             Microsoft-Windows-UserModePowerService/Diagnostic
+Retain               1052672             Microsoft-Windows-UserAccountControl/Diagnostic
+Circular             1052672           0 Microsoft-Windows-User-Loader/Operational
+Retain               1052672             Microsoft-Windows-User-Loader/Analytic
+Circular             4194304        8118 Microsoft-Windows-User Profile Service/Operational
+Retain               1052672             Microsoft-Windows-User Profile Service/Diagnostic
+Retain               1052672             Microsoft-Windows-User Device Registration/Debug
+Circular             1052672        1167 Microsoft-Windows-User Device Registration/Admin
+Circular             1052672           0 Microsoft-Windows-User Control Panel/Operational
+Retain               1052672             Microsoft-Windows-User Control Panel/Diagnostic
+Retain               1052672             Microsoft-Windows-User Control Panel Usage/Diagnostic
+Retain               1052672             Microsoft-Windows-User Control Panel Performance/Diagnostic
+Retain               1052672             Microsoft-Windows-USB-USBXHCI-Trustlet-Analytic
+Retain               1052672             Microsoft-Windows-USB-USBXHCI-Analytic
+Retain               1052672             Microsoft-Windows-USB-USBPORT/Diagnostic
+Retain               1052672             Microsoft-Windows-USB-USBHUB3-Analytic
+Retain               1052672             Microsoft-Windows-USB-USBHUB/Diagnostic
+Retain               1052672             Microsoft-Windows-USB-UCX-Analytic
+Retain               1052672             Microsoft-Windows-USB-MAUSBHOST-Analytic
+Circular             1052672        1840 Microsoft-Windows-UniversalTelemetryClient/Operational
+Retain               1052672             Microsoft-Windows-UIRibbon/Diagnostic
+Retain               1052672             Microsoft-Windows-UIAutomationCore/Perf
+Retain               1052672             Microsoft-Windows-UIAutomationCore/Diagnostic
+Retain               1052672             Microsoft-Windows-UIAutomationCore/Debug
+Retain               1052672             Microsoft-Windows-UIAnimation/Diagnostic
+Retain               1052672             Microsoft-Windows-UI-Shell/Diagnostic
+Circular             1052672          61 Microsoft-Windows-UAC/Operational
+Circular             1052672          20 Microsoft-Windows-UAC-FileVirtualization/Operational
+Circular             1052672           0 Microsoft-Windows-TZUtil/Operational
+Circular             1052672         328 Microsoft-Windows-TZSync/Operational
+Retain               1052672             Microsoft-Windows-TZSync/Analytic
+Circular             1052672        1983 Microsoft-Windows-TWinUI/Operational
+Retain               1052672             Microsoft-Windows-TWinUI/Diagnostic
+Retain               1052672             Microsoft-Windows-TWinAPI/Diagnostic
+Retain               1052672             Microsoft-Windows-TunnelDriver
+Retain               1052672             Microsoft-Windows-TTS/Diagnostic
+Retain               1052672             Microsoft-Windows-TSF-msutb/Diagnostic
+Retain               1052672             Microsoft-Windows-TSF-msutb/Debug
+Retain               1052672             Microsoft-Windows-TSF-msctf/Diagnostic
+Retain               1052672             Microsoft-Windows-TSF-msctf/Debug
+Circular             1052672           1 Microsoft-Windows-Troubleshooting-Recommended/Operational
+Circular             1052672           1 Microsoft-Windows-Troubleshooting-Recommended/Admin
+Circular             1052672        1197 Microsoft-Windows-Time-Service/Operational
+Circular             1052672           0 Microsoft-Windows-Time-Service-PTP-Provider/PTP-Operational
+Retain               1052672             Microsoft-Windows-Threat-Intelligence/Analytic
+Retain               1052672             Microsoft-Windows-ThemeUI/Diagnostic
+Retain               1052672             Microsoft-Windows-ThemeCPL/Diagnostic
+Retain               1052672             Microsoft-Windows-Tethering-Station/Analytic
+Retain               1052672             Microsoft-Windows-Tethering-Manager/Analytic
+Circular             1052672           0 Microsoft-Windows-TerminalServices-ServerUSBDevices/Operational
+Retain               1052672             Microsoft-Windows-TerminalServices-ServerUSBDevices/Debug
+Retain               1052672             Microsoft-Windows-TerminalServices-ServerUSBDevices/Analytic
+Circular             1052672           0 Microsoft-Windows-TerminalServices-ServerUSBDevices/Admin
+Circular             1052672           0 Microsoft-Windows-TerminalServices-RemoteConnectionManager/Operational
+Retain               1052672             Microsoft-Windows-TerminalServices-RemoteConnectionManager/Debug
+Retain               1052672             Microsoft-Windows-TerminalServices-RemoteConnectionManager/Analytic
+Circular             1052672           0 Microsoft-Windows-TerminalServices-RemoteConnectionManager/Admin
+Retain               1052672             Microsoft-Windows-TerminalServices-RdpSoundDriver/Playback
+Retain               1052672             Microsoft-Windows-TerminalServices-RdpSoundDriver/Capture
+Circular             1052672          18 Microsoft-Windows-TerminalServices-RDPClient/Operational
+Retain               1052672             Microsoft-Windows-TerminalServices-RDPClient/Debug
+Retain               1052672             Microsoft-Windows-TerminalServices-RDPClient/Analytic
+Circular             1052672           0 Microsoft-Windows-TerminalServices-Printers/Operational
+Retain               1052672             Microsoft-Windows-TerminalServices-Printers/Debug
+Retain               1052672             Microsoft-Windows-TerminalServices-Printers/Analytic
+Circular             1052672           0 Microsoft-Windows-TerminalServices-Printers/Admin
+Circular             1052672           0 Microsoft-Windows-TerminalServices-PnPDevices/Operational
+Retain               1052672             Microsoft-Windows-TerminalServices-PnPDevices/Debug
+Retain               1052672             Microsoft-Windows-TerminalServices-PnPDevices/Analytic
+Circular             1052672           0 Microsoft-Windows-TerminalServices-PnPDevices/Admin
+Retain               1052672             Microsoft-Windows-TerminalServices-MediaRedirection/Analytic
+Circular             1052672        1878 Microsoft-Windows-TerminalServices-LocalSessionManager/Operational
+Retain               1052672             Microsoft-Windows-TerminalServices-LocalSessionManager/Debug
+Retain               1052672             Microsoft-Windows-TerminalServices-LocalSessionManager/Analytic
+Circular             1052672           0 Microsoft-Windows-TerminalServices-LocalSessionManager/Admin
+Circular             1052672           0 Microsoft-Windows-TerminalServices-ClientUSBDevices/Operational
+Retain               1052672             Microsoft-Windows-TerminalServices-ClientUSBDevices/Debug
+Retain               1052672             Microsoft-Windows-TerminalServices-ClientUSBDevices/Analytic
+Circular             1052672           0 Microsoft-Windows-TerminalServices-ClientUSBDevices/Admin
+Circular             1052672           0 Microsoft-Windows-TenantRestrictions/Operational
+Circular             1052672           0 Microsoft-Windows-TCPIP/Operational
+Retain               1052672             Microsoft-Windows-TCPIP/Diagnostic
+Circular            10485760             Microsoft-Windows-TaskScheduler/Operational
+Circular             1052672        2319 Microsoft-Windows-TaskScheduler/Maintenance
+Retain              10485760             Microsoft-Windows-TaskScheduler/Diagnostic
+Retain              10485760             Microsoft-Windows-TaskScheduler/Debug
+Retain               1052672             Microsoft-Windows-TaskbarCPL/Diagnostic
+Circular             1052672           0 Microsoft-Windows-SystemSettingsThreshold/Operational
+Retain               1052672             Microsoft-Windows-SystemSettingsThreshold/Diagnostic
+Retain               1052672             Microsoft-Windows-SystemSettingsThreshold/Debug
+Retain               1052672             Microsoft-Windows-SystemSettingsHandlers/Debug
+Retain               1052672             Microsoft-Windows-System-Profile-HardwareId/Diagnostic
+Retain               1052672             Microsoft-Windows-Sysprep/Analytic
+Retain               1052672             Microsoft-Windows-Superfetch/StoreLog
+Retain               1052672             Microsoft-Windows-Superfetch/PfApLog
+Retain               1052672             Microsoft-Windows-Superfetch/Main
+Retain               1052672             Microsoft-Windows-Subsys-SMSS/Operational
+Retain               1052672             Microsoft-Windows-Subsys-Csr/Operational
+Circular            16777216        8962 Microsoft-Windows-Storsvc/Diagnostic
+Retain               1052672             Microsoft-Windows-StorPort/Operational
+Circular            20000000       26866 Microsoft-Windows-Store/Operational
+Retain               1052672             Microsoft-Windows-StorDiag/Operational
+Circular             1052672           0 Microsoft-Windows-StorageSpaces-SpaceManager/Operational
+Circular            16777216           2 Microsoft-Windows-StorageSpaces-SpaceManager/Diagnostic
+Circular             1052672          80 Microsoft-Windows-StorageSpaces-ManagementAgent/WHC
+Retain               1052672             Microsoft-Windows-StorageSpaces-Driver/Performance
+Circular             1052672        1589 Microsoft-Windows-StorageSpaces-Driver/Operational
+Circular            16777216        6951 Microsoft-Windows-StorageSpaces-Driver/Diagnostic
+Circular            67108864         120 Microsoft-Windows-StorageSettings/Diagnostic
+Circular             1052672           0 Microsoft-Windows-StorageManagement/Operational
+Circular            10485760             Microsoft-Windows-StorageManagement/Debug
+Circular             1052672           0 Microsoft-Windows-Storage-Tiering/Admin
+Retain               1052672             Microsoft-Windows-Storage-Tiering-IoHeat/Heat
+Circular            33554432       26389 Microsoft-Windows-Storage-Storport/Operational
+Circular             6291456        5630 Microsoft-Windows-Storage-Storport/Health
+Retain               1052672             Microsoft-Windows-Storage-Storport/Diagnose
+Retain               1052672             Microsoft-Windows-Storage-Storport/Debug
+Retain               1052672             Microsoft-Windows-Storage-Storport/Analytic
+Circular             1052672             Microsoft-Windows-Storage-Storport/Admin
+Circular             1052672             Microsoft-Windows-Storage-Disk/Operational
+Retain               1052672             Microsoft-Windows-Storage-Disk/Diagnose
+Retain               1052672             Microsoft-Windows-Storage-Disk/Debug
+Retain               1052672             Microsoft-Windows-Storage-Disk/Analytic
+Circular             1052672             Microsoft-Windows-Storage-Disk/Admin
+Circular             6291456       11787 Microsoft-Windows-Storage-ClassPnP/Operational
+Retain               1052672             Microsoft-Windows-Storage-ClassPnP/Diagnose
+Retain               1052672             Microsoft-Windows-Storage-ClassPnP/Debug
+Retain               1052672             Microsoft-Windows-Storage-ClassPnP/Analytic
+Circular             1052672             Microsoft-Windows-Storage-ClassPnP/Admin
+Circular             1052672             Microsoft-Windows-Storage-ATAPort/Operational
+Retain               1052672             Microsoft-Windows-Storage-ATAPort/Diagnose
+Retain               1052672             Microsoft-Windows-Storage-ATAPort/Debug
+Retain               1052672             Microsoft-Windows-Storage-ATAPort/Analytic
+Circular             1052672             Microsoft-Windows-Storage-ATAPort/Admin
+Retain               1052672             Microsoft-Windows-stobject/Diagnostic
+Circular             1052672           0 Microsoft-Windows-StateRepository/Restricted
+Circular             5242880       11900 Microsoft-Windows-StateRepository/Operational
+Retain               1052672             Microsoft-Windows-StateRepository/Diagnostic
+Retain               1052672             Microsoft-Windows-StateRepository/Debug
+Retain               1052672             Microsoft-Windows-SrumTelemetry
+Retain               1052672             Microsoft-Windows-SruMon/Diagnostic
+Retain               1052672             Microsoft-Windows-Spellchecking-Host/Analytic
+Retain               1052672             Microsoft-Windows-SpellChecker/Analytic
+Retain               1052672             Microsoft-Windows-Spell-Checking/Analytic
+Retain               1052672             Microsoft-Windows-Speech-UserExperience/Diagnostic
+Retain               1052672             Microsoft-Windows-SPB-HIDI2C/Analytic
+Retain               1052672             Microsoft-Windows-SPB-ClassExtension/Analytic
+Circular             1052672           0 Microsoft-Windows-SMBWitnessClient/Informational
+Circular             1052672           0 Microsoft-Windows-SMBWitnessClient/Admin
+Circular             8388608           0 Microsoft-Windows-SMBServer/Security
+Retain               1052672             Microsoft-Windows-SMBServer/Performance
+Circular             8388608        6965 Microsoft-Windows-SMBServer/Operational
+Retain               1052672             Microsoft-Windows-SMBServer/Diagnostic
+Circular             8388608           0 Microsoft-Windows-SMBServer/Connectivity
+Circular             8388608           0 Microsoft-Windows-SMBServer/Audit
+Retain               1052672             Microsoft-Windows-SMBServer/Analytic
+Circular           104857600             Microsoft-Windows-SMBDirect/Netmon
+Circular           104857600             Microsoft-Windows-SMBDirect/Debug
+Circular             1052672           0 Microsoft-Windows-SMBDirect/Admin
+Circular             8388608        1633 Microsoft-Windows-SmbClient/Security
+Circular             8388608           0 Microsoft-Windows-SMBClient/Operational
+Circular           536870912             Microsoft-Windows-SMBClient/ObjectStateDiagnostic
+Retain               1052672             Microsoft-Windows-SMBClient/HelperClassDiagnostic
+Retain               1052672             Microsoft-Windows-SmbClient/Diagnostic
+Circular             8388608       18609 Microsoft-Windows-SmbClient/Connectivity
+Circular             8388608           0 Microsoft-Windows-SmbClient/Audit
+Retain               1052672             Microsoft-Windows-SMBClient/Analytic
+Circular             1052672             Microsoft-Windows-SmartScreen/Debug
+Circular             1052672           0 Microsoft-Windows-SmartCard-TPM-VCard-Module/Operational
+Circular             1052672           0 Microsoft-Windows-SmartCard-TPM-VCard-Module/Admin
+Circular             1052672           0 Microsoft-Windows-SmartCard-DeviceEnum/Operational
+Circular             1052672           0 Microsoft-Windows-SmartCard-Audit/Authentication
+Retain               1052672             Microsoft-Windows-SleepStudy/Diagnostic
+Retain               1052672             Microsoft-Windows-Shsvcs/Diagnostic
+Circular             1052672        1906 Microsoft-Windows-ShellCommon-StartLayoutPopulation/Operational
+Retain               1052672             Microsoft-Windows-ShellCommon-StartLayoutPopulation/Diagnostic
+Retain               1052672             Microsoft-Windows-Shell-ZipFolder/Diagnostic
+Retain               1052672             Microsoft-Windows-Shell-Shwebsvc
+Retain               1052672             Microsoft-Windows-Shell-OpenWith/Diagnostic
+Retain               1052672             Microsoft-Windows-Shell-LockScreenContent/Diagnostic
+Retain               1052672             Microsoft-Windows-Shell-DefaultPrograms/Diagnostic
+Circular             1052672        2217 Microsoft-Windows-Shell-Core/Operational
+Circular             1052672           0 Microsoft-Windows-Shell-Core/LogonTasksChannel
+Retain               1052672             Microsoft-Windows-Shell-Core/Diagnostic
+Circular             1052672        2065 Microsoft-Windows-Shell-Core/AppDefaults
+Circular             1052672           0 Microsoft-Windows-Shell-Core/ActionCenter
+Circular             1052672           0 Microsoft-Windows-Shell-ConnectedAccountState/ActionCenter
+Retain               1052672             Microsoft-Windows-Shell-AuthUI-Shutdown/Diagnostic
+Retain               1052672             Microsoft-Windows-Shell-AuthUI-LogonUI/Diagnostic
+Retain               1052672             Microsoft-Windows-Shell-AuthUI-Logon/Diagnostic
+Retain               1052672             Microsoft-Windows-Shell-AuthUI-CredUI/Diagnostic
+Retain               1052672             Microsoft-Windows-Shell-AuthUI-CredentialProviderUser/Diagnostic
+Retain               1052672             Microsoft-Windows-Shell-AuthUI-Common/Diagnostic
+Retain               1052672             Microsoft-Windows-Shell-AuthUI-BootAnim/Diagnostic
+Retain               1052672             Microsoft-Windows-Shell-AppWizCpl/Diagnostic
+Retain               1052672             Microsoft-Windows-ShareMedia-ControlPanel/Diagnostic
+Retain               1052672             Microsoft-Windows-SetupUGC/Analytic
+Retain               1052672             Microsoft-Windows-SetupQueue/Analytic
+Retain               1052672             Microsoft-Windows-SetupPlatform/Analytic
+Retain               1052672             Microsoft-Windows-SetupCl/Analytic
+Retain               1052672             Microsoft-Windows-Setup/Analytic
+Retain               1052672             Microsoft-Windows-SettingSync/VerboseDebug
+Circular             1052672        1813 Microsoft-Windows-SettingSync/Operational
+Circular             1052672        1545 Microsoft-Windows-SettingSync/Debug
+Retain               1052672             Microsoft-Windows-SettingSync/Analytic
+Circular             1052672          23 Microsoft-Windows-SettingSync-OneDrive/Operational
+Circular             1052672        1242 Microsoft-Windows-SettingSync-OneDrive/Debug
+Retain               1052672             Microsoft-Windows-SettingSync-OneDrive/Analytic
+Circular             1052672           0 Microsoft-Windows-SettingSync-Azure/Operational
+Circular             1052672           0 Microsoft-Windows-SettingSync-Azure/Debug
+Retain               1052672             Microsoft-Windows-Servicing/Debug
+Retain               1052672             Microsoft-Windows-Services/Diagnostic
+Retain               1052672             Microsoft-Windows-Services-Svchost/Diagnostic
+Circular             1052672             Microsoft-Windows-ServiceReportingApi/Debug
+Retain               1052672             Microsoft-Windows-Serial-ClassExtension/Analytic
+Retain               1052672             Microsoft-Windows-Serial-ClassExtension-V2/Analytic
+Retain               1052672             Microsoft-Windows-Sensors/Performance
+Retain               1052672             Microsoft-Windows-Sensors/Debug
+Circular             1052672           0 Microsoft-Windows-SenseIR/Operational
+Circular             1052672           0 Microsoft-Windows-SENSE/Operational
+Retain               1052672             Microsoft-Windows-Sens/Debug
+Retain               1052672             Microsoft-Windows-SendTo/Diagnostic
+Retain               1052672             Microsoft-Windows-SecurityMitigationsBroker/Perf
+Circular             1052672           0 Microsoft-Windows-SecurityMitigationsBroker/Operational
+Circular             1052672             Microsoft-Windows-SecurityMitigationsBroker/Admin
+Retain               1052672             Microsoft-Windows-Security-Vault/Performance
+Circular             1052672           0 Microsoft-Windows-Security-UserConsentVerifier/Audit
+Retain               1052672             Microsoft-Windows-Security-SPP/Perf
+Retain               1052672             Microsoft-Windows-Security-SPP-UX/Analytic
+Circular             1052672        2093 Microsoft-Windows-Security-SPP-UX-Notifications/ActionCenter
+Circular             1052672          12 Microsoft-Windows-Security-SPP-UX-GenuineCenter-Logging/Operational
+Retain               1052672             Microsoft-Windows-Security-SPP-UX-GC/Analytic
+Circular             1052672           0 Microsoft-Windows-Security-Netlogon/Operational
+Circular             1052672           0 Microsoft-Windows-Security-Mitigations/UserMode
+Circular             1052672         552 Microsoft-Windows-Security-Mitigations/KernelMode
+Circular             1052672        2026 Microsoft-Windows-Security-LessPrivilegedAppContainer/Operational
+Retain               1052672             Microsoft-Windows-Security-IdentityStore/Performance
+Circular             1052672             Microsoft-Windows-Security-IdentityListener/Operational
+Retain               1052672             Microsoft-Windows-Security-ExchangeActiveSyncProvisioning/Performance
+Circular             1052672             Microsoft-Windows-Security-ExchangeActiveSyncProvisioning/Operational
+Circular             1052672           0 Microsoft-Windows-Security-EnterpriseData-FileRevocationManager/Operational
+Circular             1052672           0 Microsoft-Windows-Security-Audit-Configuration-Client/Operational
+Retain               1052672             Microsoft-Windows-Security-Audit-Configuration-Client/Diagnostic
+Circular             1052672           0 Microsoft-Windows-Security-Adminless/Operational
+Circular             1052672             Microsoft-Windows-SecureAssessment/Operational
+Circular             1052672           0 Microsoft-Windows-SearchUI/Operational
+Retain               1052672             Microsoft-Windows-SearchUI/Diagnostic
+Retain               1052672             Microsoft-Windows-Search-ProtocolHandlers/Diagnostic
+Retain               1052672             Microsoft-Windows-Search-Core/Diagnostic
+Retain               1052672             Microsoft-Windows-Sdstor/Analytic
+Retain               1052672             Microsoft-Windows-Sdbus/Debug
+Retain               1052672             Microsoft-Windows-Sdbus/Analytic
+Retain               1052672             Microsoft-Windows-Schannel-Events/Perf
+Retain               1052672             Microsoft-Windows-Runtime/Error
+Retain               1052672             Microsoft-Windows-Runtime/CreateInstance
+Retain               1052672             Microsoft-Windows-Runtime-Windows-Media/WinRTTranscode
+Retain               1052672             Microsoft-Windows-Runtime-Windows-Media/WinRTMediaStreamSource
+Retain               1052672             Microsoft-Windows-Runtime-Windows-Media/WinRTCaptureEngine
+Retain               1052672             Microsoft-Windows-Runtime-Windows-Media/WinRTAdaptiveMediaSource
+Retain               1052672             Microsoft-Windows-Runtime-WebAPI/Tracing
+Retain               1052672             Microsoft-Windows-Runtime-Web-Http/Tracing
+Retain               1052672             Microsoft-Windows-Runtime-Networking/Tracing
+Retain               1052672             Microsoft-Windows-Runtime-Networking-BackgroundTransfer/Tracing
+Retain               1052672             Microsoft-Windows-Runtime-Graphics/Analytic
+Circular             1052672             Microsoft-Windows-RRAS/Operational
+Retain               1052672             Microsoft-Windows-RRAS/Debug
+Retain               1052672             Microsoft-Windows-RPC/EEInfo
+Retain               1052672             Microsoft-Windows-RPC/Debug
+Retain               1052672             Microsoft-Windows-RPC-Proxy/Debug
+Circular             1052672           0 Microsoft-Windows-RetailDemo/Operational
+Circular             1052672           0 Microsoft-Windows-RetailDemo/Admin
+Circular             1052672           0 Microsoft-Windows-RestartManager/Operational
+Retain               1052672             Microsoft-Windows-ResourcePublication/Tracing
+Circular             1052672        1667 Microsoft-Windows-Resource-Exhaustion-Resolver/Operational
+Circular             1052672        2118 Microsoft-Windows-Resource-Exhaustion-Detector/Operational
+Retain               1052672             Microsoft-Windows-ResetEng-Trace/Diagnostic
+Circular             1052672             Microsoft-Windows-Remotefs-Rdbss/Operational
+Retain               1052672             Microsoft-Windows-Remotefs-Rdbss/Diagnostic
+Circular             1052672           0 Microsoft-Windows-RemoteDesktopServices-SessionServices/Operational
+Retain               1052672             Microsoft-Windows-RemoteDesktopServices-RemoteFX-VM-User-Mode-Transport/Debug
+Retain               1052672             Microsoft-Windows-RemoteDesktopServices-RemoteFX-VM-Kernel-Mode-Transport/Debug
+Circular             1052672           0 Microsoft-Windows-RemoteDesktopServices-RemoteFX-Synth3dvsc/Admin
+Circular             1052672           0 Microsoft-Windows-RemoteDesktopServices-RdpCoreTS/Operational
+Retain               1052672             Microsoft-Windows-RemoteDesktopServices-RdpCoreTS/Debug
+Circular             1052672           0 Microsoft-Windows-RemoteDesktopServices-RdpCoreTS/Admin
+Retain               1052672             Microsoft-Windows-RemoteAssistance/Tracing
+Circular             1052672           2 Microsoft-Windows-RemoteAssistance/Operational
+Circular             1052672           0 Microsoft-Windows-RemoteAssistance/Admin
+Circular             1052672           0 Microsoft-Windows-RemoteApp and Desktop Connections/Operational
+Circular             1052672           0 Microsoft-Windows-RemoteApp and Desktop Connections/Admin
+Circular             1052672           0 Microsoft-Windows-Regsvr32/Operational
+Circular             1052672           0 Microsoft-Windows-ReFS/Operational
+Circular             1052672           0 Microsoft-Windows-ReadyBoostDriver/Operational
+Retain               1052672             Microsoft-Windows-ReadyBoostDriver/Analytic
+Circular             1052672        1979 Microsoft-Windows-ReadyBoost/Operational
+Retain               1052672             Microsoft-Windows-ReadyBoost/Analytic
+Circular             1052672             Microsoft-Windows-RasAgileVpn/Operational
+Retain               1052672             Microsoft-Windows-RasAgileVpn/Debug
+Retain               1052672             Microsoft-Windows-Ras-NdisWanPacketCapture/Diagnostic
+Retain               1052672             Microsoft-Windows-RadioManager/Analytic
+Retain               1052672             Microsoft-Windows-QoS-qWAVE/Debug
+Retain               1052672             Microsoft-Windows-QoS-Pacer/Diagnostic
+Circular             1052672        1595 Microsoft-Windows-PushNotification-Platform/Operational
+Retain               1052672             Microsoft-Windows-PushNotification-Platform/Debug
+Circular             1052672           0 Microsoft-Windows-PushNotification-Platform/Admin
+Retain               1052672             Microsoft-Windows-PushNotification-InProc/Debug
+Retain               1052672             Microsoft-Windows-PushNotification-Developer/Debug
+Retain               1052672             Microsoft-Windows-Proximity-Common/Performance
+Retain               1052672             Microsoft-Windows-Proximity-Common/Informational
+Circular             1052672             Microsoft-Windows-Proximity-Common/Diagnostic
+Circular             1052672           0 Microsoft-Windows-Provisioning-Diagnostics-Provider/ManagementService
+Retain               1052672             Microsoft-Windows-Provisioning-Diagnostics-Provider/Debug
+Circular             1052672           0 Microsoft-Windows-Provisioning-Diagnostics-Provider/AutoPilot
+Circular             1052672        1692 Microsoft-Windows-Provisioning-Diagnostics-Provider/Admin
+Circular             1052672           0 Microsoft-Windows-Program-Compatibility-Assistant/CompatAfterUpgrade
+Circular             1052672             Microsoft-Windows-Program-Compatibility-Assistant/Analytic
+Retain               1052672             Microsoft-Windows-ProcessStateManager/Diagnostic
+Retain             104857600         274 Microsoft-Windows-Privacy-Auditing/Operational
+Circular             1052672         440 Microsoft-Windows-PrintService/Operational
+Retain               1052672             Microsoft-Windows-PrintService/Debug
+Circular             1052672           1 Microsoft-Windows-PrintService/Admin
+Retain               1052672             Microsoft-Windows-PrintService-USBMon/Debug
+Circular             1052672           0 Microsoft-Windows-PrintBRM/Admin
+Retain               1052672             Microsoft-Windows-PrimaryNetworkIcon/Performance
+Circular            15728640         552 Microsoft-Windows-PowerShell/Operational
+Retain            1048985600             Microsoft-Windows-PowerShell/Debug
+Retain            1048985600             Microsoft-Windows-PowerShell/Analytic
+Retain            1048985600           0 Microsoft-Windows-PowerShell/Admin
+Circular             1052672           0 Microsoft-Windows-PowerShell-DesiredStateConfiguration-FileDownloadManager/Operational
+Retain               1052672             Microsoft-Windows-PowerShell-DesiredStateConfiguration-FileDownloadManager/Debug
+Retain               1052672             Microsoft-Windows-PowerShell-DesiredStateConfiguration-FileDownloadManager/Analytic
+Retain               1052672             Microsoft-Windows-PowerEfficiencyDiagnostics/Diagnostic
+Retain               1052672             Microsoft-Windows-PowerCpl/Diagnostic
+Retain               1052672             Microsoft-Windows-PowerCfg/Diagnostic
+Retain               1052672             Microsoft-Windows-Power-Meter-Polling/Diagnostic
+Retain               1052672             Microsoft-Windows-PortableDeviceSyncProvider/Analytic
+Retain               1052672             Microsoft-Windows-PortableDeviceStatusProvider/Analytic
+Circular             1052672           0 Microsoft-Windows-Policy/Operational
+Retain               1052672             Microsoft-Windows-Policy/Analytic
+Retain               1052672             Microsoft-Windows-PlayToManager/Analytic
+Retain               1052672             Microsoft-Windows-PhotoAcq/Analytic
+Circular             6291456           0 Microsoft-Windows-PersistentMemory-ScmBus/Operational
+Retain               1052672             Microsoft-Windows-PersistentMemory-ScmBus/Diagnose
+Circular             1052672           0 Microsoft-Windows-PersistentMemory-ScmBus/Certification
+Retain               1052672             Microsoft-Windows-PersistentMemory-ScmBus/Analytic
+Circular             6291456           0 Microsoft-Windows-PersistentMemory-PmemDisk/Operational
+Retain               1052672             Microsoft-Windows-PersistentMemory-PmemDisk/Diagnostic
+Retain               1052672             Microsoft-Windows-PersistentMemory-PmemDisk/Analytic
+Circular             6291456           0 Microsoft-Windows-PersistentMemory-Nvdimm/Operational
+Retain               1052672             Microsoft-Windows-PersistentMemory-Nvdimm/Diagnostic
+Retain               1052672             Microsoft-Windows-PersistentMemory-Nvdimm/Analytic
+Circular             1052672           0 Microsoft-Windows-PerceptionSensorDataService/Operational
+Circular             1052672           0 Microsoft-Windows-PerceptionRuntime/Operational
+Retain               1052672             Microsoft-Windows-PeerToPeerDrtEventProvider/Diagnostic
+Retain               1052672             Microsoft-Windows-PCI/Diagnostic
+Circular            16777216        1773 Microsoft-Windows-Partition/Diagnostic
+Retain               1052672             Microsoft-Windows-Partition/Analytic
+Circular             1052672           0 Microsoft-Windows-ParentalControls/Operational
+Circular             1052672        1759 Microsoft-Windows-PackageStateRoaming/Operational
+Retain               1052672             Microsoft-Windows-PackageStateRoaming/Debug
+Retain               1052672             Microsoft-Windows-PackageStateRoaming/Analytic
+Circular             1052672             Microsoft-Windows-OtpCredentialProvider/Operational
+Retain               1052672             Microsoft-Windows-osk/Diagnostic
+Retain               1052672             Microsoft-Windows-OobeLdr/Analytic
+Retain               1052672             Microsoft-Windows-OOBE-Machine-Plugins-Wireless/Diagnostic
+Circular             1052672           0 Microsoft-Windows-OOBE-Machine-DUI/Operational
+Retain               1052672             Microsoft-Windows-OOBE-Machine-DUI/Diagnostic
+Retain               1052672             Microsoft-Windows-OOBE-Machine-Core/Diagnostic
+Retain               1052672             Microsoft-Windows-OOBE-FirstLogonAnim/Diagnostic
+Circular             1052672             Microsoft-Windows-OneX/Operational
+Retain               1052672             Microsoft-Windows-OneX/Diagnostic
+Circular             1052672          16 Microsoft-Windows-OneBackup/Debug
+Retain               1052672             Microsoft-Windows-OLEACC/Diagnostic
+Retain               1052672             Microsoft-Windows-OLEACC/Debug
+Retain               1052672             Microsoft-Windows-OLE/Clipboard-Performance
+Retain               1052672             Microsoft-Windows-OfflineFiles/SyncLog
+Circular             1052672           0 Microsoft-Windows-OfflineFiles/Operational
+Retain               1052672             Microsoft-Windows-OfflineFiles/Debug
+Retain               1052672             Microsoft-Windows-OfflineFiles/Analytic
+Circular             1052672           0 Microsoft-Windows-OcpUpdateAgent/Operational
+Retain               1052672             Microsoft-Windows-NWiFi/Diagnostic
+Retain               1052672             Microsoft-Windows-ntshrui-perf
+Retain               1052672             Microsoft-Windows-ntshrui
+Circular             1052672           0 Microsoft-Windows-NTLM/Operational
+Circular             1052672         457 Microsoft-Windows-Ntfs/WHC
+Retain               1052672             Microsoft-Windows-Ntfs/Performance
+Circular            33554432       44676 Microsoft-Windows-Ntfs/Operational
+Circular             1052672          69 Microsoft-Windows-NlaSvc/Operational
+Retain               1052672             Microsoft-Windows-NlaSvc/Diagnostic
+Retain               1052672             Microsoft-Windows-NetworkStatus/Analytic
+Retain               1052672             Microsoft-Windows-NetworkSecurity/Debug
+Circular             1052672           0 Microsoft-Windows-NetworkProvisioning/Operational
+Retain               1052672             Microsoft-Windows-NetworkProvisioning/Analytic
+Circular             1052672           0 Microsoft-Windows-NetworkProvider/Operational
+Circular             1052672        2137 Microsoft-Windows-NetworkProfile/Operational
+Retain               1052672             Microsoft-Windows-NetworkProfile/Diagnostic
+Circular             1052672           6 Microsoft-Windows-NetworkLocationWizard/Operational
+Retain               1052672             Microsoft-Windows-Networking-RealTimeCommunication/Tracing
+Retain               1052672             Microsoft-Windows-Networking-Correlation/Diagnostic
+Retain               1052672             Microsoft-Windows-NetworkBridge/Diagnostic
+Retain               1052672             Microsoft-Windows-Network-Setup/Diagnostic
+Retain               1052672             Microsoft-Windows-Network-DataUsage/Analytic
+Retain               1052672             Microsoft-Windows-Network-Connection-Broker
+Retain               1052672             Microsoft-Windows-Network-and-Sharing-Center/Diagnostic
+Retain               1052672             Microsoft-Windows-NetShell/Performance
+Retain               1052672             Microsoft-Windows-Ndu/Diagnostic
+Circular             1052672           0 Microsoft-Windows-NdisImPlatform/Operational
+Circular             1052672             Microsoft-Windows-NDIS/Operational
+Retain               1052672             Microsoft-Windows-NDIS/Diagnostic
+Retain               1052672             Microsoft-Windows-NDIS-PacketCapture/Diagnostic
+Retain               1052672             Microsoft-Windows-NDF-HelperClassDiscovery/Debug
+Circular             1052672        2478 Microsoft-Windows-NCSI/Operational
+Retain               1052672             Microsoft-Windows-NCSI/Analytic
+Circular             1052672          10 Microsoft-Windows-NcdAutoSetup/Operational
+Retain               1052672             Microsoft-Windows-NcdAutoSetup/Diagnostic
+Circular             1052672             Microsoft-Windows-Ncasvc/Operational
+Retain               1052672             Microsoft-Windows-Narrator/Diagnostic
+Circular             1052672          14 Microsoft-Windows-MUI/Operational
+Retain               1052672             Microsoft-Windows-MUI/Debug
+Retain               1052672             Microsoft-Windows-MUI/Analytic
+Circular             1052672           0 Microsoft-Windows-MUI/Admin
+Retain               1052672             Microsoft-Windows-MSPaint/Diagnostic
+Retain               1052672             Microsoft-Windows-MSPaint/Debug
+Circular             1052672             Microsoft-Windows-MSPaint/Admin
+Retain               1052672             Microsoft-Windows-MSFTEDIT/Diagnostic
+Retain               1052672             Microsoft-Windows-MPS-SRV/Diagnostic
+Retain               1052672             Microsoft-Windows-MPS-DRV/Diagnostic
+Retain               1052672             Microsoft-Windows-MPS-CLNT/Diagnostic
+Circular             1052672           0 Microsoft-Windows-Mprddm/Operational
+Retain               1052672             Microsoft-Windows-MPEG2-Video-Encoder-MFT_Analytic
+Circular             1052672          14 Microsoft-Windows-ModernDeployment-Diagnostics-Provider/ManagementService
+Circular             1052672           0 Microsoft-Windows-ModernDeployment-Diagnostics-Provider/Diagnostics
+Retain               1052672             Microsoft-Windows-ModernDeployment-Diagnostics-Provider/Debug
+Circular             1052672          27 Microsoft-Windows-ModernDeployment-Diagnostics-Provider/Autopilot
+Circular             1052672           0 Microsoft-Windows-ModernDeployment-Diagnostics-Provider/Admin
+Retain               1052672             Microsoft-Windows-mobsync/Diagnostic
+Retain               1052672             Microsoft-Windows-MobilityCenter/Performance
+Retain               1052672             Microsoft-Windows-Mobile-Broadband-Experience-SmsApi/Analytic
+Circular             1052672           0 Microsoft-Windows-Mobile-Broadband-Experience-Parser-Task/Operational
+Retain               1052672             Microsoft-Windows-Mobile-Broadband-Experience-Parser-Task/Analytic
+Retain               1052672             Microsoft-Windows-Mobile-Broadband-Experience-Api/Analytic
+Retain               1052672             Microsoft-Windows-Mobile-Broadband-Experience-Api-Internal/Analytic
+Retain               1052672             Microsoft-Windows-Minstore/Debug
+Retain               1052672             Microsoft-Windows-Minstore/Analytic
+Circular             1052672           1 Microsoft-Windows-MemoryDiagnostics-Results/Debug
+Retain               1052672             Microsoft-Windows-MediaFoundation-PlayAPI/Analytic
+Circular             1052672             Microsoft-Windows-MediaFoundation-Performance/SARStreamResource
+Retain               1052672             Microsoft-Windows-MediaFoundation-MFReadWrite/Transform
+Retain               1052672             Microsoft-Windows-MediaFoundation-MFReadWrite/SourceReader
+Retain               1052672             Microsoft-Windows-MediaFoundation-MFReadWrite/SinkWriter
+Retain               1052672             Microsoft-Windows-MediaFoundation-MFCaptureEngine/MFCaptureEngine
+Retain               1052672             Microsoft-Windows-Media-Streaming/MDE
+Retain               1052672             Microsoft-Windows-Media-Streaming/DMR
+Retain               1052672             Microsoft-Windows-Media-Streaming/DMC
+Retain               1052672             Microsoft-Windows-LUA-ConsentUI/Diagnostic
+Retain               1052672             Microsoft-Windows-LSA/Performance
+Circular             1052672             Microsoft-Windows-LSA/Operational
+Retain               1052672             Microsoft-Windows-LSA/Diagnostic
+Circular             1052672         438 Microsoft-Windows-LiveId/Operational
+Retain               1052672             Microsoft-Windows-LiveId/Analytic
+Circular             1052672             Microsoft-Windows-LinkLayerDiscoveryProtocol/Operational
+Retain               1052672             Microsoft-Windows-LinkLayerDiscoveryProtocol/Diagnostic
+Retain               1052672             Microsoft-Windows-LimitsManagement/Diagnostic
+Retain               1052672             Microsoft-Windows-LDAP-Client/Debug
+Circular            52428800           0 Microsoft-Windows-LAPS/Operational
+Circular             1052672         775 Microsoft-Windows-LanguagePackSetup/Operational
+Retain               1052672             Microsoft-Windows-LanguagePackSetup/Debug
+Retain               1052672             Microsoft-Windows-LanguagePackSetup/Analytic
+Retain               1052672             Microsoft-Windows-L2NA/Diagnostic
+Circular             1052672        1939 Microsoft-Windows-Known Folders API Service
+Circular             1052672             Microsoft-Windows-KeyboardFilter/Performance
+Circular             1052672             Microsoft-Windows-KeyboardFilter/Operational
+Circular             1052672           0 Microsoft-Windows-KeyboardFilter/Admin
+Retain               1052672             Microsoft-Windows-Kernel-XDV/Analytic
+Circular            33554432        3125 Microsoft-Windows-Kernel-WHEA/Operational
+Circular            33554432           0 Microsoft-Windows-Kernel-WHEA/Errors
+Circular             1052672           0 Microsoft-Windows-Kernel-WDI/Operational
+Retain               1052672             Microsoft-Windows-Kernel-WDI/Debug
+Retain               1052672             Microsoft-Windows-Kernel-WDI/Analytic
+Circular             1052672           0 Microsoft-Windows-Kernel-StoreMgr/Operational
+Retain               1052672             Microsoft-Windows-Kernel-StoreMgr/Analytic
+Circular             1052672        2053 Microsoft-Windows-Kernel-ShimEngine/Operational
+Retain               1052672             Microsoft-Windows-Kernel-ShimEngine/Diagnostic
+Retain               1052672             Microsoft-Windows-Kernel-ShimEngine/Debug
+Retain               1052672             Microsoft-Windows-Kernel-Registry/Performance
+Retain               1052672             Microsoft-Windows-Kernel-Registry/Analytic
+Retain               1052672             Microsoft-Windows-Kernel-Processor-Power/Diagnostic
+Retain               1052672             Microsoft-Windows-Kernel-Process/Analytic
+Retain               1052672             Microsoft-Windows-Kernel-Prefetch/Diagnostic
+Circular             1052672           0 Microsoft-Windows-Kernel-Power/Thermal-Operational
+Retain               1052672             Microsoft-Windows-Kernel-Power/Thermal-Diagnostic
+Retain               1052672             Microsoft-Windows-Kernel-Power/Diagnostic
+Circular             1052672          70 Microsoft-Windows-Kernel-PnP/Driver Watchdog
+Circular            10485760             Microsoft-Windows-Kernel-PnP/Driver Diagnostic
+Circular            10485760             Microsoft-Windows-Kernel-PnP/Device Enumeration Diagnostic
+Circular            10485760             Microsoft-Windows-Kernel-PnP/Configuration Diagnostic
+Circular             1052672        1440 Microsoft-Windows-Kernel-PnP/Configuration
+Circular             1052672             Microsoft-Windows-Kernel-PnP/Boot Diagnostic
+Retain               1052672             Microsoft-Windows-Kernel-Pep/Diagnostic
+Retain               1052672             Microsoft-Windows-Kernel-Pdc/Diagnostic
+Retain               1052672             Microsoft-Windows-Kernel-Network/Analytic
+Retain               1052672             Microsoft-Windows-Kernel-Memory/Analytic
+Circular             1052672          80 Microsoft-Windows-Kernel-LiveDump/Operational
+Retain               1052672             Microsoft-Windows-Kernel-LiveDump/Analytic
+Retain               1052672             Microsoft-Windows-Kernel-IoTrace/Diagnostic
+Circular             1052672           0 Microsoft-Windows-Kernel-IO/Operational
+Retain               1052672             Microsoft-Windows-Kernel-Interrupt-Steering/Diagnostic
+Retain               1052672             Microsoft-Windows-Kernel-File/Analytic
+Retain               1052672             Microsoft-Windows-Kernel-EventTracing/Analytic
+Circular             1052672        1953 Microsoft-Windows-Kernel-EventTracing/Admin
+Retain               1052672             Microsoft-Windows-Kernel-Disk/Analytic
+Retain               1052672             Microsoft-Windows-Kernel-BootDiagnostics/Diagnostic
+Circular             1052672        2455 Microsoft-Windows-Kernel-Boot/Operational
+Retain               1052672             Microsoft-Windows-Kernel-Boot/Analytic
+Circular             1052672           0 Microsoft-Windows-Kernel-ApphelpCache/Operational
+Retain               1052672             Microsoft-Windows-Kernel-ApphelpCache/Debug
+Retain               1052672             Microsoft-Windows-Kernel-ApphelpCache/Analytic
+Retain               1052672             Microsoft-Windows-Kernel-AppCompat/Performance
+Retain               1052672             Microsoft-Windows-Kernel-AppCompat/General
+Retain               1052672             Microsoft-Windows-Kernel-Acpi/Diagnostic
+Circular             1052672             Microsoft-Windows-Kerberos/Operational
+Circular             1052672           0 Microsoft-Windows-KdsSvc/Operational
+Circular             1052672           0 Microsoft-Windows-IPxlatCfg/Operational
+Retain               1052672             Microsoft-Windows-IPxlatCfg/Debug
+Retain               1052672             Microsoft-Windows-IPSEC-SRV/Diagnostic
+Retain               1052672             Microsoft-Windows-IPNAT/Diagnostic
+Retain               1052672             Microsoft-Windows-Iphlpsvc/Trace
+Circular             1052672           0 Microsoft-Windows-Iphlpsvc/Operational
+Retain               1052672             Microsoft-Windows-Iphlpsvc/Debug
+Circular             1052672           0 Microsoft-Windows-International-RegionalOptionsControlPanel/Operational
+Retain               1052672             Microsoft-Windows-InputSwitch/Diagnostic
+Retain               1052672             Microsoft-Windows-Input-HIDCLASS-Analytic
+Retain               1052672             Microsoft-Windows-IndirectDisplays-ClassExtension-Events/Diagnostic
+Retain               1052672             Microsoft-Windows-IME-TIP/Analytic
+Retain               1052672             Microsoft-Windows-IME-TCTIP/Analytic
+Retain               1052672             Microsoft-Windows-IME-TCCORE/Analytic
+Retain               1052672             Microsoft-Windows-IME-OEDCompiler/Analytic
+Retain               1052672             Microsoft-Windows-IME-KRTIP/Analytic
+Retain               1052672             Microsoft-Windows-IME-KRAPI/Analytic
+Retain               1052672             Microsoft-Windows-IME-JPTIP/Analytic
+Retain               1052672             Microsoft-Windows-IME-JPSetting/Analytic
+Retain               1052672             Microsoft-Windows-IME-JPPRED/Analytic
+Retain               1052672             Microsoft-Windows-IME-JPLMP/Analytic
+Retain               1052672             Microsoft-Windows-IME-JPAPI/Analytic
+Retain               1052672             Microsoft-Windows-IME-CustomerFeedbackManagerUI/Analytic
+Retain               1052672             Microsoft-Windows-IME-CustomerFeedbackManager/Debug
+Retain               1052672             Microsoft-Windows-IME-CandidateUI/Analytic
+Retain               1052672             Microsoft-Windows-IME-Broker/Analytic
+Retain               1052672             Microsoft-Windows-IKEDBG/Debug
+Circular             1052672           0 Microsoft-Windows-IKE/Operational
+Retain               1052672             Microsoft-Windows-IE-SmartScreen
+Circular             1052672           0 Microsoft-Windows-IdCtrls/Operational
+Retain               1052672             Microsoft-Windows-IdCtrls/Analytic
+Retain               1052672             Microsoft-Windows-Hyper-V-Worker-VDev-Analytic
+Circular             1052672           0 Microsoft-Windows-Hyper-V-Worker-Operational
+Retain               1052672             Microsoft-Windows-Hyper-V-Worker-Analytic
+Circular             1052672          24 Microsoft-Windows-Hyper-V-Worker-Admin
+Circular             1052672        1193 Microsoft-Windows-Hyper-V-VmSwitch-Operational
+Retain               1052672             Microsoft-Windows-Hyper-V-VmSwitch-Diagnostic-Traffic
+Retain               1052672             Microsoft-Windows-Hyper-V-VmSwitch-Diagnostic
+Retain               1052672             Microsoft-Windows-Hyper-V-VID-Analytic
+Circular             1052672           0 Microsoft-Windows-Hyper-V-VID-Admin
+Retain               1052672             Microsoft-Windows-Hyper-V-VfpExt-Analytic
+Retain               1052672             Microsoft-Windows-Hyper-V-StorageVSP-Analytic
+Circular             1052672           4 Microsoft-Windows-Hyper-V-StorageVSP-Admin
+Retain               1052672             Microsoft-Windows-Hyper-V-NETVSC/Diagnostic
+Circular             1052672          20 Microsoft-Windows-Hyper-V-Hypervisor-Operational
+Retain               1052672             Microsoft-Windows-Hyper-V-Hypervisor-Analytic
+Circular             1052672         104 Microsoft-Windows-Hyper-V-Hypervisor-Admin
+Circular             1052672             Microsoft-Windows-Hyper-V-Guest-Drivers/Operational
+Retain               1052672             Microsoft-Windows-Hyper-V-Guest-Drivers/Diagnose
+Retain               1052672             Microsoft-Windows-Hyper-V-Guest-Drivers/Debug
+Retain               1052672             Microsoft-Windows-Hyper-V-Guest-Drivers/Analytic
+Circular             1052672           0 Microsoft-Windows-Hyper-V-Guest-Drivers/Admin
+Circular           134217728          66 Microsoft-Windows-Hyper-V-Compute-Operational
+Retain             134217728             Microsoft-Windows-Hyper-V-Compute-Analytic
+Circular             1052672           1 Microsoft-Windows-Hyper-V-Compute-Admin
+Circular             1052672             Microsoft-Windows-HttpService/Trace
+Circular             1052672             Microsoft-Windows-HttpService/Log
+Circular             1052672           0 Microsoft-Windows-HotspotAuth/Operational
+Retain               1052672             Microsoft-Windows-HotspotAuth/Analytic
+Circular             1052672          12 Microsoft-Windows-Host-Network-Service-Operational
+Retain               1052672             Microsoft-Windows-Host-Network-Service-Analytic
+Circular             1052672          14 Microsoft-Windows-Host-Network-Service-Admin
+Retain               1052672             Microsoft-Windows-HomeGroup-ListenerService
+Circular             1052672           0 Microsoft-Windows-HomeGroup Provider Service/Operational
+Retain               1052672             Microsoft-Windows-HomeGroup Provider Service Performance/Diagnostic
+Circular             1052672           0 Microsoft-Windows-HomeGroup Listener Service/Operational
+Circular             1052672           0 Microsoft-Windows-HomeGroup Control Panel/Operational
+Retain               1052672             Microsoft-Windows-HomeGroup Control Panel Performance/Diagnostic
+Circular             1052672           0 Microsoft-Windows-Help/Operational
+Circular             1052672        2421 Microsoft-Windows-HelloForBusiness/Operational
+Retain               1052672             Microsoft-Windows-HealthCenterCPL/Performance
+Retain               1052672             Microsoft-Windows-HealthCenter/Performance
+Retain               1052672             Microsoft-Windows-HealthCenter/Debug
+Retain               1052672             Microsoft-Windows-HAL/Debug
+Circular             4194304       10186 Microsoft-Windows-GroupPolicy/Operational
+Retain               1052672             Microsoft-Windows-GPIO-ClassExtension/Analytic
+Retain               1052672             Microsoft-Windows-glcnd/Diagnostic
+Retain               1052672             Microsoft-Windows-glcnd/Debug
+Circular             1052672             Microsoft-Windows-glcnd/Admin
+Circular             1052672           0 Microsoft-Windows-GenericRoaming/Admin
+Circular             1052672           0 Microsoft-Windows-Forwarding/Operational
+Retain               1052672             Microsoft-Windows-Forwarding/Debug
+Circular             4194304           0 Microsoft-Windows-Folder Redirection/Operational
+Circular             1052672           0 Microsoft-Windows-FMS/Operational
+Retain               1052672             Microsoft-Windows-FMS/Debug
+Retain               1052672             Microsoft-Windows-FMS/Analytic
+Retain               1052672             Microsoft-Windows-Firewall-CPL/Diagnostic
+Retain               1052672             Microsoft-Windows-FileInfoMinifilter/Operational
+Retain               1052672             Microsoft-Windows-FileHistory-UI-Events/Debug
+Retain               1052672             Microsoft-Windows-FileHistory-UI-Events/Analytic
+Retain               1052672             Microsoft-Windows-FileHistory-Service/Debug
+Retain               1052672             Microsoft-Windows-FileHistory-Service/Analytic
+Retain               1052672             Microsoft-Windows-FileHistory-EventListener/Debug
+Retain               1052672             Microsoft-Windows-FileHistory-EventListener/Analytic
+Retain               1052672             Microsoft-Windows-FileHistory-Engine/Debug
+Circular             1052672           0 Microsoft-Windows-FileHistory-Engine/BackupLog
+Retain               1052672             Microsoft-Windows-FileHistory-Engine/Analytic
+Circular             1052672           0 Microsoft-Windows-FileHistory-Core/WHC
+Retain               1052672             Microsoft-Windows-FileHistory-Core/Debug
+Retain               1052672             Microsoft-Windows-FileHistory-Core/Analytic
+Retain               1052672             Microsoft-Windows-FileHistory-ConfigManager/Debug
+Retain               1052672             Microsoft-Windows-FileHistory-ConfigManager/Analytic
+Retain               1052672             Microsoft-Windows-FileHistory-Catalog/Debug
+Retain               1052672             Microsoft-Windows-FileHistory-Catalog/Analytic
+Circular             1052672           0 Microsoft-Windows-FeatureConfiguration/Operational
+Retain               1052672             Microsoft-Windows-FeatureConfiguration/Analytic
+Circular             1052672         751 Microsoft-Windows-Fault-Tolerant-Heap/Operational
+Circular           104857600             Microsoft-Windows-FailoverClustering-Client/Diagnostic
+Retain               1052672             Microsoft-Windows-EventLog/Debug
+Retain               1052672             Microsoft-Windows-EventLog/Analytic
+Retain               1052672             Microsoft-Windows-EventLog-WMIProvider/Debug
+Circular             1052672           0 Microsoft-Windows-EventCollector/Operational
+Retain               1052672             Microsoft-Windows-EventCollector/Debug
+Circular             1052672             Microsoft-Windows-ESE/Operational
+Retain              20971520             Microsoft-Windows-ESE/IODiagnose
+Retain               1052672             Microsoft-Windows-EnhancedStorage-EhStorTcgDrv/Analytic
+Retain               1052672             Microsoft-Windows-Energy-Estimation-Engine/Trace
+Circular             1052672             Microsoft-Windows-Energy-Estimation-Engine/EventLog
+Retain               1052672             Microsoft-Windows-EFS/Debug
+Circular             1052672           0 Microsoft-Windows-EDP-Audit-TCB/Admin
+Circular             1052672           0 Microsoft-Windows-EDP-Audit-Regular/Admin
+Circular             1052672           0 Microsoft-Windows-EDP-Application-Learning/Admin
+Retain               1052672             Microsoft-Windows-EaseOfAccess/Diagnostic
+Circular             1052672           0 Microsoft-Windows-EapMethods-Ttls/Operational
+Circular             1052672           0 Microsoft-Windows-EapMethods-Sim/Operational
+Circular             1052672           0 Microsoft-Windows-EapMethods-RasTls/Operational
+Circular             1052672           0 Microsoft-Windows-EapMethods-RasChap/Operational
+Circular             1052672           0 Microsoft-Windows-EapHost/Operational
+Retain               1052672             Microsoft-Windows-EapHost/Debug
+Retain               1052672             Microsoft-Windows-EapHost/Analytic
+Retain               1052672             Microsoft-Windows-DxpTaskSyncProvider/Analytic
+Retain               1052672             Microsoft-Windows-DXP/Analytic
+Retain               1052672             Microsoft-Windows-DxgKrnl/Power
+Retain               1052672             Microsoft-Windows-DxgKrnl/Performance
+Retain               1052672             Microsoft-Windows-DxgKrnl/Diagnostic
+Retain               1052672             Microsoft-Windows-DxgKrnl/Contention
+Circular             1052672           4 Microsoft-Windows-DxgKrnl-Operational
+Circular             1052672           0 Microsoft-Windows-DxgKrnl-Admin
+Retain               1052672             Microsoft-Windows-DXGI/Logging
+Retain               1052672             Microsoft-Windows-DXGI/Analytic
+Retain               1052672             Microsoft-Windows-Dwm-Udwm/Diagnostic
+Retain               1052672             Microsoft-Windows-Dwm-Redir/Diagnostic
+Retain               1052672             Microsoft-Windows-Dwm-Dwm/Diagnostic
+Retain               1052672             Microsoft-Windows-Dwm-Core/Diagnostic
+Retain               1052672             Microsoft-Windows-Dwm-API/Diagnostic
+Retain               1052672             Microsoft-Windows-DUSER/Diagnostic
+Retain               1052672             Microsoft-Windows-DUI/Diagnostic
+Circular             1052672           0 Microsoft-Windows-DucUpdateAgent/Operational
+Circular             1052672           0 Microsoft-Windows-DSC/Operational
+Retain               1052672             Microsoft-Windows-DSC/Debug
+Retain               1052672             Microsoft-Windows-DSC/Analytic
+Circular             1052672           0 Microsoft-Windows-DSC/Admin
+Circular             1052672             Microsoft-Windows-DriverFrameworks-UserMode/Operational
+Retain               1052672             Microsoft-Windows-Dot3MM/Diagnostic
+Retain               1052672             Microsoft-Windows-Documents/Performance
+Circular             1052672             Microsoft-Windows-DNS-Client/Operational
+Retain               1052672             Microsoft-Windows-DLNA-Namespace/Analytic
+Retain               1052672             Microsoft-Windows-DisplaySwitch/Diagnostic
+Circular             1052672             Microsoft-Windows-DisplayColorCalibration/Operational
+Retain               1052672             Microsoft-Windows-DisplayColorCalibration/Debug
+Retain               1052672             Microsoft-Windows-Dism-Cli/Analytic
+Retain               1052672             Microsoft-Windows-Dism-Api/InternalAnalytic
+Retain               1052672             Microsoft-Windows-Dism-Api/ExternalAnalytic
+Retain               1052672             Microsoft-Windows-Dism-Api/Analytic
+Circular             1052672           0 Microsoft-Windows-DiskDiagnosticResolver/Operational
+Circular             1052672           0 Microsoft-Windows-DiskDiagnosticDataCollector/Operational
+Circular             1052672           0 Microsoft-Windows-DiskDiagnostic/Operational
+Retain               1052672             Microsoft-Windows-Disk/Operational
+Retain               1052672             Microsoft-Windows-DirectSound/Debug
+Retain               1052672             Microsoft-Windows-DirectShow-KernelSupport/Performance
+Retain               1052672             Microsoft-Windows-DirectManipulation/Diagnostic
+Retain               1052672             Microsoft-Windows-DirectComposition/Diagnostic
+Retain               1052672             Microsoft-Windows-Direct3DShaderCache/Default
+Retain               1052672             Microsoft-Windows-Direct3D9/Analytic
+Retain               1052672             Microsoft-Windows-Direct3D12/PerfTiming
+Retain               1052672             Microsoft-Windows-Direct3D12/Logging
+Retain               1052672             Microsoft-Windows-Direct3D12/Analytic
+Retain               1052672             Microsoft-Windows-Direct3D11/PerfTiming
+Retain               1052672             Microsoft-Windows-Direct3D11/Logging
+Retain               1052672             Microsoft-Windows-Direct3D11/Analytic
+Retain               1052672             Microsoft-Windows-Direct3D10_1/Analytic
+Retain               1052672             Microsoft-Windows-Direct3D10/Analytic
+Retain               1052672             Microsoft-Windows-Diagnostics-PerfTrack/Diagnostic
+Retain               1052672             Microsoft-Windows-Diagnostics-PerfTrack-Counters/Diagnostic
+Circular             1052672        1297 Microsoft-Windows-Diagnostics-Performance/Operational
+Retain               1052672             Microsoft-Windows-Diagnostics-Performance/Diagnostic/Loopback
+Retain               1052672             Microsoft-Windows-Diagnostics-Performance/Diagnostic
+Circular             1052672           4 Microsoft-Windows-Diagnostics-Networking/Operational
+Retain               1052672             Microsoft-Windows-Diagnostics-Networking/Debug
+Retain               1052672             Microsoft-Windows-Diagnosis-WDI/Debug
+Retain               1052672             Microsoft-Windows-Diagnosis-WDC/Analytic
+Circular             1052672          88 Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider/Operational
+Retain               1052672             Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider/Debug
+Circular             1052672         743 Microsoft-Windows-Diagnosis-Scripted/Operational
+Retain               1052672             Microsoft-Windows-Diagnosis-Scripted/Debug
+Retain               1052672             Microsoft-Windows-Diagnosis-Scripted/Analytic
+Circular             1052672         180 Microsoft-Windows-Diagnosis-Scripted/Admin
+Circular             1052672        1191 Microsoft-Windows-Diagnosis-Scheduled/Operational
+Circular             1052672           0 Microsoft-Windows-Diagnosis-PLA/Operational
+Retain               1052672             Microsoft-Windows-Diagnosis-PLA/Debug
+Retain               1052672             Microsoft-Windows-Diagnosis-Perfhost/Analytic
+Circular             1052672        1066 Microsoft-Windows-Diagnosis-PCW/Operational
+Retain               1052672             Microsoft-Windows-Diagnosis-PCW/Debug
+Retain               1052672             Microsoft-Windows-Diagnosis-PCW/Analytic
+Retain               1052672             Microsoft-Windows-Diagnosis-MSDE/Debug
+Circular             1052672        1840 Microsoft-Windows-Diagnosis-DPS/Operational
+Retain               1052672             Microsoft-Windows-Diagnosis-DPS/Debug
+Retain               1052672             Microsoft-Windows-Diagnosis-DPS/Analytic
+Retain               1052672             Microsoft-Windows-Diagnosis-AdvancedTaskManager/Analytic
+Retain               1052672             Microsoft-Windows-DiagCpl/Debug
+Circular             1052672             Microsoft-Windows-Dhcpv6-Client/Operational
+Circular             1052672           3 Microsoft-Windows-Dhcpv6-Client/Admin
+Circular             1052672             Microsoft-Windows-Dhcp-Client/Operational
+Circular             1052672        2309 Microsoft-Windows-Dhcp-Client/Admin
+Retain               1052672             Microsoft-Windows-DeviceUx/Performance
+Retain               1052672             Microsoft-Windows-DeviceUx/Informational
+Circular             1052672           0 Microsoft-Windows-DeviceUpdateAgent/Operational
+Circular             1052672           0 Microsoft-Windows-DeviceSync/Operational
+Retain               1052672             Microsoft-Windows-DeviceSync/Analytic
+Circular             1052672        1978 Microsoft-Windows-DeviceSetupManager/Operational
+Retain               1052672             Microsoft-Windows-DeviceSetupManager/Debug
+Retain               1052672             Microsoft-Windows-DeviceSetupManager/Analytic
+Circular             1052672        2159 Microsoft-Windows-DeviceSetupManager/Admin
+Circular             1052672           0 Microsoft-Windows-Devices-Background/Operational
+Circular             1052672        1866 Microsoft-Windows-DeviceManagement-Enterprise-Diagnostics-Provider/Operational
+Retain               1052672             Microsoft-Windows-DeviceManagement-Enterprise-Diagnostics-Provider/Debug
+Circular             1052672         335 Microsoft-Windows-DeviceManagement-Enterprise-Diagnostics-Provider/Admin
+Retain               1052672             Microsoft-Windows-DeviceGuard/Verbose
+Circular             1052672           0 Microsoft-Windows-DeviceGuard/Operational
+Retain               1052672             Microsoft-Windows-DeviceConfidence/Analytic
+Retain               1052672             Microsoft-Windows-DeviceAssociationService/Performance
+Retain               1052672             Microsoft-Windows-DesktopWindowManager-Diag/Diagnostic
+Retain               1052672             Microsoft-Windows-DesktopActivityModerator/Diagnostic
+Retain               1052672             Microsoft-Windows-Deplorch/Analytic
+Retain               1052672             Microsoft-Windows-Defrag-Core/Debug
+Circular            10485760           0 Microsoft-Windows-Deduplication/Scrubbing
+Retain              10485760             Microsoft-Windows-Deduplication/Performance
+Circular            10485760           0 Microsoft-Windows-Deduplication/Operational
+Circular           104857600           0 Microsoft-Windows-Deduplication/Diagnostic
+Retain               1052672             Microsoft-Windows-DDisplay/Logging
+Retain               1052672             Microsoft-Windows-DDisplay/Analytic
+Retain               1052672             Microsoft-Windows-DCLocator/Debug
+Circular             1052672           0 Microsoft-Windows-DateTimeControlPanel/Operational
+Retain               1052672             Microsoft-Windows-DateTimeControlPanel/Debug
+Retain               1052672             Microsoft-Windows-DateTimeControlPanel/Analytic
+Circular             1052672           0 Microsoft-Windows-DataIntegrityScan/CrashRecovery
+Circular             1052672           0 Microsoft-Windows-DataIntegrityScan/Admin
+Retain               1052672             Microsoft-Windows-Data-Pdf/Debug
+Retain               1052672             Microsoft-Windows-DAMM/Diagnostic
+Circular             1052672           0 Microsoft-Windows-DAL-Provider/Operational
+Retain               1052672             Microsoft-Windows-DAL-Provider/Analytic
+Retain               1052672             Microsoft-Windows-D3D10Level9/PerfTiming
+Retain               1052672             Microsoft-Windows-D3D10Level9/Analytic
+Retain               1052672             Microsoft-Windows-Crypto-RSAEnh/Analytic
+Retain               1052672             Microsoft-Windows-Crypto-RNG/Analytic
+Circular             1052672        1680 Microsoft-Windows-Crypto-NCrypt/Operational
+Retain               1052672             Microsoft-Windows-Crypto-DSSEnh/Analytic
+Circular             1052672        2472 Microsoft-Windows-Crypto-DPAPI/Operational
+Circular             1052672             Microsoft-Windows-Crypto-DPAPI/Debug
+Circular             1052672           0 Microsoft-Windows-Crypto-DPAPI/BackUpKeySvc
+Retain               1052672             Microsoft-Windows-Crypto-CNG/Analytic
+Retain               1052672             Microsoft-Windows-Crypto-BCRYPT/Analytic
+Retain               1052672             Microsoft-Windows-CredUI/Diagnostic
+Retain               1052672             Microsoft-Windows-Crashdump/Operational
+Circular             1052672           0 Microsoft-Windows-CorruptedFileRecovery-Server/Operational
+Circular             1052672           0 Microsoft-Windows-CorruptedFileRecovery-Client/Operational
+Retain               1052672             Microsoft-Windows-CoreWindow/Debug
+Retain               1052672             Microsoft-Windows-CoreWindow/Analytic
+Circular             1052672         961 Microsoft-Windows-CoreSystem-SmsRouter-Events/Operational
+Retain               1052672             Microsoft-Windows-CoreSystem-SmsRouter-Events/Debug
+Retain               1052672             Microsoft-Windows-CoreApplication/Tracing
+Circular             1052672           0 Microsoft-Windows-CoreApplication/Operational
+Retain               1052672             Microsoft-Windows-CoreApplication/Diagnostic
+Circular             1052672           0 Microsoft-Windows-Containers-Wcnfs/Operational
+Retain               1052672             Microsoft-Windows-Containers-Wcnfs/Debug
+Circular             1052672         457 Microsoft-Windows-Containers-Wcifs/Operational
+Retain               1052672             Microsoft-Windows-Containers-Wcifs/Debug
+Circular             1052672         457 Microsoft-Windows-Containers-BindFlt/Operational
+Retain               1052672             Microsoft-Windows-Containers-BindFlt/Debug
+Retain               1052672             Microsoft-Windows-COMRuntime/Tracing
+Retain               1052672             Microsoft-Windows-COMRuntime/MessageProcessing
+Retain               1052672             Microsoft-Windows-COMRuntime/Activations
+Circular             1052672           0 Microsoft-Windows-Compat-Appraiser/Operational
+Retain               1052672             Microsoft-Windows-Compat-Appraiser/Analytic
+Retain               1052672             Microsoft-Windows-ComDlg32/Debug
+Retain               1052672             Microsoft-Windows-ComDlg32/Analytic
+Retain               1052672             Microsoft-Windows-COM/RundownInstrumentation
+Retain               1052672             Microsoft-Windows-COM/FreeUnusedLibrary
+Retain               1052672             Microsoft-Windows-COM/ExtensionCatalog
+Retain               1052672             Microsoft-Windows-COM/CreateInstance
+Retain               1052672             Microsoft-Windows-COM/Call
+Retain               1052672             Microsoft-Windows-COM/ApartmentUninitialize
+Retain               1052672             Microsoft-Windows-COM/ApartmentInitialize
+Retain               1052672             Microsoft-Windows-COM/Analytic
+Retain               1052672             Microsoft-Windows-CodeIntegrity/Verbose
+Circular             1052672        1270 Microsoft-Windows-CodeIntegrity/Operational
+Retain               1052672             Microsoft-Windows-CmiSetup/Analytic
+Circular             1052672        2096 Microsoft-Windows-CloudStore/Operational
+Circular             1052672           0 Microsoft-Windows-CloudStore/Initialization
+Circular            10485760             Microsoft-Windows-CloudStore/Debug
+Circular             1052672        1764 Microsoft-Windows-CloudRestoreLauncher/Operational
+Retain               1052672             Microsoft-Windows-ClearTypeTextTuner/Diagnostic
+Circular             8388608         255 Microsoft-Windows-Cleanmgr/Diagnostic
+Circular             1052672             Microsoft-Windows-CertPoleEng/Operational
+Circular             1052672          75 Microsoft-Windows-CertificateServicesClient-Lifecycle-User/Operational
+Circular             1052672         142 Microsoft-Windows-CertificateServicesClient-Lifecycle-System/Operational
+Circular             1052672             Microsoft-Windows-CertificateServicesClient-CredentialRoaming/Operational
+Retain               1052672             Microsoft-Windows-CDROM/Operational
+Circular             1052672             Microsoft-Windows-CAPI2/Operational
+Retain               1052672             Microsoft-Windows-CAPI2/Catalog Database Debug
+Retain               1052672             Microsoft-Windows-BTH-BTHUSB/Performance
+Retain               1052672             Microsoft-Windows-BTH-BTHUSB/Diagnostic
+Retain               1052672             Microsoft-Windows-BTH-BTHPORT/L2CAP
+Retain               1052672             Microsoft-Windows-BTH-BTHPORT/HCI
+Circular             1052672           0 Microsoft-Windows-BranchCacheSMB/Operational
+Retain               1052672             Microsoft-Windows-BranchCacheSMB/Analytic
+Retain               1052672             Microsoft-Windows-BranchCacheMonitoring/Analytic
+Retain               1052672             Microsoft-Windows-BranchCacheEventProvider/Diagnostic
+Retain               1052672             Microsoft-Windows-BranchCacheClientEventProvider/Diagnostic
+Circular             1052672           0 Microsoft-Windows-BranchCache/Operational
+Circular             1052672             Microsoft-Windows-Bluetooth-Policy/Operational
+Circular             1052672           0 Microsoft-Windows-Bluetooth-MTPEnum/Operational
+Circular             1052672             Microsoft-Windows-Bluetooth-Bthmini/Operational
+Circular             1052672           0 Microsoft-Windows-Bluetooth-BthLEPrepairing/Operational
+Circular             1052672        1167 Microsoft-Windows-Bits-Client/Operational
+Circular             1052672             Microsoft-Windows-Bits-Client/Analytic
+Retain               1052672             Microsoft-Windows-BitLocker/Tracing
+Circular             1052672             Microsoft-Windows-BitLocker/BitLocker Operational
+Circular             1052672         190 Microsoft-Windows-BitLocker/BitLocker Management
+Retain               1052672             Microsoft-Windows-BitLocker-Driver-Performance/Operational
+Circular             1052672           0 Microsoft-Windows-BitLocker-DrivePreparationTool/Operational
+Circular             1052672           0 Microsoft-Windows-BitLocker-DrivePreparationTool/Admin
+Circular             1052672        1200 Microsoft-Windows-Biometrics/Operational
+Retain               1052672             Microsoft-Windows-Biometrics/Analytic
+Retain               1052672             Microsoft-Windows-Battery/Diagnostic
+Circular             1052672             Microsoft-Windows-Base-Filtering-Engine-Resource-Flows/Operational
+Circular             1052672             Microsoft-Windows-Base-Filtering-Engine-Connections/Operational
+Circular             1052672           0 Microsoft-Windows-Backup
+Circular             1052672             Microsoft-Windows-BackgroundTransfer-ContentPrefetcher/Operational
+Circular             1052672        1431 Microsoft-Windows-BackgroundTaskInfrastructure/Operational
+Retain               1052672             Microsoft-Windows-BackgroundTaskInfrastructure/Diagnostic
+Retain               1052672             Microsoft-Windows-AxInstallService/Log
+Circular             1052672             Microsoft-Windows-Authentication/ProtectedUserSuccesses-DomainController
+Circular             1052672             Microsoft-Windows-Authentication/ProtectedUserFailures-DomainController
+Circular             1052672             Microsoft-Windows-Authentication/ProtectedUser-Client
+Circular             1052672             Microsoft-Windows-Authentication/AuthenticationPolicyFailures-DomainController
+Circular             1052672          59 Microsoft-Windows-Authentication User Interface/Operational
+Retain               1052672             Microsoft-Windows-Audit/Analytic
+Circular             1052672        2692 Microsoft-Windows-Audio/PlaybackManager
+Retain               1052672             Microsoft-Windows-Audio/Performance
+Circular             1052672        1800 Microsoft-Windows-Audio/Operational
+Circular             1052672             Microsoft-Windows-Audio/Informational
+Circular             1052672             Microsoft-Windows-Audio/GlitchDetection
+Circular             1052672           7 Microsoft-Windows-Audio/CaptureMonitor
+Retain               1052672             Microsoft-Windows-ATAPort/SATA-LPM
+Retain               1052672             Microsoft-Windows-ATAPort/General
+Retain               1052672             Microsoft-Windows-AsynchronousCausality/Causality
+Circular             1052672             Microsoft-Windows-AssignedAccessBroker/Operational
+Circular             1052672           0 Microsoft-Windows-AssignedAccessBroker/Admin
+Circular             1052672             Microsoft-Windows-AssignedAccess/Operational
+Circular             1052672           0 Microsoft-Windows-AssignedAccess/Admin
+Circular             1052672             Microsoft-Windows-ASN1/Operational
+Retain               1052672             Microsoft-Windows-AppxPackaging/Performance
+Circular             1052672        2029 Microsoft-Windows-AppxPackaging/Operational
+Retain               1052672             Microsoft-Windows-AppxPackaging/Debug
+Circular             1052672           0 Microsoft-Windows-AppXDeploymentServer/Restricted
+Circular             5242880        5058 Microsoft-Windows-AppXDeploymentServer/Operational
+Retain               1052672             Microsoft-Windows-AppXDeploymentServer/Diagnostic
+Retain               1052672             Microsoft-Windows-AppXDeploymentServer/Debug
+Circular             1052672        2104 Microsoft-Windows-AppXDeployment/Operational
+Retain               1052672             Microsoft-Windows-AppXDeployment/Diagnostic
+Retain               1052672             Microsoft-Windows-AppSruProv
+Circular             5242880        4571 Microsoft-Windows-AppReadiness/Operational
+Retain               1052672             Microsoft-Windows-AppReadiness/Debug
+Circular             5242880       11719 Microsoft-Windows-AppReadiness/Admin
+Retain               1052672             Microsoft-Windows-AppModel-State/Diagnostic
+Retain               1052672             Microsoft-Windows-AppModel-State/Debug
+Retain               1052672             Microsoft-Windows-AppModel-Runtime/Diagnostics
+Retain               1052672             Microsoft-Windows-AppModel-Runtime/Debug
+Retain               1052672             Microsoft-Windows-AppModel-Runtime/Analytic
+Circular             1052672        1597 Microsoft-Windows-AppModel-Runtime/Admin
+Circular             1052672           0 Microsoft-Windows-AppLocker/Packaged app-Execution
+Circular             1052672           0 Microsoft-Windows-AppLocker/Packaged app-Deployment
+Circular             1052672           0 Microsoft-Windows-AppLocker/MSI and Script
+Circular             1052672           0 Microsoft-Windows-AppLocker/EXE and DLL
+Circular             1052672           0 Microsoft-Windows-Application-Experience/Steps-Recorder
+Circular             1052672        1548 Microsoft-Windows-Application-Experience/Program-Telemetry
+Circular             1052672           0 Microsoft-Windows-Application-Experience/Program-Inventory
+Circular             1052672           3 Microsoft-Windows-Application-Experience/Program-Compatibility-Troubleshooter
+Retain               1052672             Microsoft-Windows-Application-Experience/Program-Compatibility-Assistant/Trace
+Retain               1052672             Microsoft-Windows-Application-Experience/Program-Compatibility-Assistant/Analytic
+Circular             1052672        1516 Microsoft-Windows-Application-Experience/Program-Compatibility-Assistant
+Retain               1052672             Microsoft-Windows-Application-Experience/Compatibility-Infrastructure-Debug
+Circular             1052672           0 Microsoft-Windows-Application Server-Applications/Operational
+Retain               1052672             Microsoft-Windows-Application Server-Applications/Debug
+Retain               1052672             Microsoft-Windows-Application Server-Applications/Analytic
+Circular             1052672           0 Microsoft-Windows-Application Server-Applications/Admin
+Circular             1052672           0 Microsoft-Windows-ApplicabilityEngine/Operational
+Retain               1052672             Microsoft-Windows-ApplicabilityEngine/Analytic
+Circular             1052672           0 Microsoft-Windows-AppID/Operational
+Retain               1052672             Microsoft-Windows-AppHost/Internal
+Retain               1052672             Microsoft-Windows-AppHost/Diagnostic
+Retain               1052672             Microsoft-Windows-AppHost/ApplicationTracing
+Circular             1052672           0 Microsoft-Windows-AppHost/Admin
+Circular             1052672           6 Microsoft-Windows-AllJoyn/Operational
+Retain               1052672             Microsoft-Windows-AllJoyn/Debug
+Circular             1052672           0 Microsoft-Windows-All-User-Install-Agent/Admin
+Retain               1052672             Microsoft-Windows-ADSI/Debug
+Retain               1052672             Microsoft-Windows-ActionQueue/Analytic
+Circular             1052672         109 Microsoft-Windows-AAD/Operational
+Circular             1052672             Microsoft-Windows-AAD/Analytic
+Circular             1052672           0 Microsoft-User Experience Virtualization-SQM Uploader/Operational
+Retain               1052672             Microsoft-User Experience Virtualization-SQM Uploader/Debug
+Retain               1052672             Microsoft-User Experience Virtualization-SQM Uploader/Analytic
+Circular             1052672           0 Microsoft-User Experience Virtualization-IPC/Operational
+Circular             1052672           0 Microsoft-User Experience Virtualization-App Agent/Operational
+Retain               1052672             Microsoft-User Experience Virtualization-App Agent/Debug
+Retain               1052672             Microsoft-User Experience Virtualization-App Agent/Analytic
+Circular             1052672           0 Microsoft-User Experience Virtualization-Agent Driver/Operational
+Retain               1052672             Microsoft-User Experience Virtualization-Agent Driver/Debug
+Retain               1052672             Microsoft-User Experience Virtualization-Admin/Debug
+Retain               1052672             Microsoft-PerfTrack-MSHTML/Diagnostic
+Retain               1052672             Microsoft-PerfTrack-IEFRAME/Diagnostic
+Retain               1052672             Microsoft-OneCore-Setup/Analytic
+Retain               1052672             Microsoft-JSDumpHeap/Diagnostic
+Retain               1052672             Microsoft-IEFRAME/Diagnostic
+Retain               1052672             Microsoft-IE/Diagnostic
+Retain               1052672             Microsoft-Client-Licensing-Platform/Diagnostic
+Retain               1052672             Microsoft-Client-Licensing-Platform/Debug
+Circular             1052672        2425 Microsoft-Client-Licensing-Platform/Admin
+Retain               1052672             Microsoft-Client-License-Flexible-Platform/Diagnostic
+Retain               1052672             Microsoft-Client-License-Flexible-Platform/Debug
+Circular             1052672           0 Microsoft-Client-License-Flexible-Platform/Admin
+Retain               1052672             Microsoft-AppV-SharedPerformance/Analytic
+Circular            10485760           0 Microsoft-AppV-Client/Virtual Applications
+Circular            10485760           0 Microsoft-AppV-Client/Operational
+Retain               1052672             Microsoft-AppV-Client/Debug
+Circular            10485760           0 Microsoft-AppV-Client/Admin
+Retain               1052672             Microsoft-AppV-Client-Streamingux/Debug
+Retain               1052672             MF_MediaFoundationFrameServer
+Retain               1052672             MF_MediaFoundationDeviceProxy
+Retain               1052672             MF_MediaFoundationDeviceMFT
+Retain               1052672             MediaFoundationSrcPrefetch
+Retain               1052672             MediaFoundationPlatform
+Retain               1052672             MediaFoundationPipeline
+Retain               1052672             MediaFoundationPerformanceCore
+Retain               1052672             MediaFoundationPerformance
+Retain               1052672             MediaFoundationMP4
+Retain               1052672             MediaFoundationMediaEngine
+Retain               1052672             MediaFoundationDS
+Retain               1052672             MediaFoundationDeviceProxy
+Retain               1052672             MediaFoundationContentProtection
+Retain               1052672             MediaFoundationAsyncWrapper
+Retain               1052672             MedaFoundationVideoProcD3D
+Retain               1052672             MedaFoundationVideoProc
+Retain               1052672             Intel-iaLPSS2-I2C/Performance
+Retain               1052672             Intel-iaLPSS2-I2C/Debug
+Retain               1052672             Intel-iaLPSS2-GPIO2/Performance
+Retain               1052672             Intel-iaLPSS2-GPIO2/Debug
+Retain               1052672             Intel-iaLPSS-I2C/Analytic
+Retain               1052672             Intel-iaLPSS-GPIO/Analytic
+Circular            20971520           0 Intel-GFX-Info/System
+Circular            20971520           0 Intel-GFX-Info/Application
+Retain               1052672             IHM_DebugChannel
+Retain               1052672             General Logging
+Circular            20971520             ForwardedEvents
+Retain               1052672             FirstUXPerf-Analytic
+Retain               1052672             EndpointMapper
+Retain               1052672             Els_Hyphenation/Analytic
+Retain               1052672             DirectShowPluginControl
+Retain               1052672             DirectShowFilterGraph
+Retain               1052672             Analytic
+Retain               1052672             AMSI/Debug
+Retain               1052672             AirSpaceChannel
+

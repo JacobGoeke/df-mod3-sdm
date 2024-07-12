@@ -1,0 +1,52 @@
+"Message","Id","Version","Qualifiers","Level","Task","Opcode","Keywords","RecordId","ProviderName","ProviderId","LogName","ProcessId","ThreadId","MachineName","UserId","TimeCreated","ActivityId","RelatedActivityId","ContainerLog","MatchedQueryIds","Bookmark","LevelDisplayName","OpcodeDisplayName","TaskDisplayName","KeywordsDisplayNames","Properties"
+"Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-3902717789-3688409941-3728980011-1001
+	Account Name:		jacob
+	Account Domain:		DESKTOP-PADVRQN
+	Logon ID:		0x205312
+	Read Operation:		Enumerate Credentials
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","5379","0",,"0","13824","0","-9214364837600034816","3600693","Microsoft-Windows-Security-Auditing","54849625-5478-4994-a5ba-3e3b0328c30d","Security","1096","1240","DESKTOP-PADVRQN",,"7/12/2024 3:33:30 AM","a30bc732-d3ce-0002-c2c7-0ba3ced3da01",,"Security","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Info","User Account Management","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-3902717789-3688409941-3728980011-1001
+	Account Name:		jacob
+	Account Domain:		DESKTOP-PADVRQN
+	Logon ID:		0x205312
+	Read Operation:		Enumerate Credentials
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","5379","0",,"0","13824","0","-9214364837600034816","3600692","Microsoft-Windows-Security-Auditing","54849625-5478-4994-a5ba-3e3b0328c30d","Security","1096","1240","DESKTOP-PADVRQN",,"7/12/2024 3:33:30 AM","a30bc732-d3ce-0002-c2c7-0ba3ced3da01",,"Security","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Info","User Account Management","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-3902717789-3688409941-3728980011-1001
+	Account Name:		jacob
+	Account Domain:		DESKTOP-PADVRQN
+	Logon ID:		0x205312
+	Read Operation:		Enumerate Credentials
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","5379","0",,"0","13824","0","-9214364837600034816","3600691","Microsoft-Windows-Security-Auditing","54849625-5478-4994-a5ba-3e3b0328c30d","Security","1096","28180","DESKTOP-PADVRQN",,"7/12/2024 3:33:05 AM","a30bc732-d3ce-0002-c2c7-0ba3ced3da01",,"Security","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Info","User Account Management","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-3902717789-3688409941-3728980011-1001
+	Account Name:		jacob
+	Account Domain:		DESKTOP-PADVRQN
+	Logon ID:		0x205312
+	Read Operation:		Enumerate Credentials
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","5379","0",,"0","13824","0","-9214364837600034816","3600690","Microsoft-Windows-Security-Auditing","54849625-5478-4994-a5ba-3e3b0328c30d","Security","1096","28180","DESKTOP-PADVRQN",,"7/12/2024 3:33:05 AM","a30bc732-d3ce-0002-c2c7-0ba3ced3da01",,"Security","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Info","User Account Management","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Credential Manager credentials were read.
+
+Subject:
+	Security ID:		S-1-5-21-3902717789-3688409941-3728980011-1001
+	Account Name:		jacob
+	Account Domain:		DESKTOP-PADVRQN
+	Logon ID:		0x205312
+	Read Operation:		Enumerate Credentials
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager.","5379","0",,"0","13824","0","-9214364837600034816","3600689","Microsoft-Windows-Security-Auditing","54849625-5478-4994-a5ba-3e3b0328c30d","Security","1096","15844","DESKTOP-PADVRQN",,"7/12/2024 3:31:32 AM","a30bc732-d3ce-0002-c2c7-0ba3ced3da01",,"Security","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Info","User Account Management","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+Permissions changed to read-only for Users and jacob
