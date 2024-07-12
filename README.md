@@ -20,7 +20,7 @@
 
 ### This screenshot shows the permissions for the backup file which is also saved into a text file:
 
-![Screenshot](.\df-mod3-sdm\perms.png)
+![Screenshot](perms.PNG)
 
 ## Powershell Scripting
 
